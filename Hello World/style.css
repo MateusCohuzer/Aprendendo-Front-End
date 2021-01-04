@@ -3,6 +3,12 @@ body {
     font: 25px Arial;
 }
 
+header {
+    background-attachment: fixed;
+    background-image: url("wp1825469.jpg");
+    padding: 60px;
+}
+
 h1 {
     color:darkgreen;
 }
