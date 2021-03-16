@@ -11,7 +11,7 @@ header {
 }
 
 h1 {
-    color:darkgreen;
+    -webkit-text-stroke: 2px red
 }
 
 p {
